@@ -1,0 +1,30 @@
+
+
+
+p {
+    color: blue;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* class */
+.parrafo {
+    color: aqua;
+}
+
+/* ID */
+#titulo {
+    color: red;
+}
+
+
+ ul {
+     font-family: 'Gill Sans', 'Gill Sans MT', Calib;
+     font-size: 25px;
+ }
+
+ li {
+     color: brown;
+ }
+
+ 
