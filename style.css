@@ -1,4 +1,7 @@
 
+body { 
+    background-color: black;
+}
 
 
 p {
@@ -10,6 +13,7 @@ p {
 /* class */
 .parrafo {
     color: aqua;
+    font-size: 24px;
 }
 
 /* ID */
@@ -25,6 +29,7 @@ p {
 
  li {
      color: brown;
+     font-size: 25px;
  }
 
  
